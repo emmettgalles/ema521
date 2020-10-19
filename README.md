@@ -6,7 +6,7 @@ I welcome feedback, questions, or comments you may have about any file in this r
 
 ### EMA_521__exam_1_equation_sheet.pdf
 
-  - Description: document containing equations and notes for Exam 1 (covering content up to Week 8).
+  - Description: document containing equations and notes for Exam 1 (covering content up to and including Week 8).
   - Current task: updating the document to include all pertinent info.
   - To-do: none.
   - Issues: none (that I'm aware of).
